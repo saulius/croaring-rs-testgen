@@ -1,0 +1,4 @@
+{
+ :paths ["src"]
+ :deps {org.roaringbitmap/RoaringBitmap {:mvn/version "0.8.1"}}
+}
