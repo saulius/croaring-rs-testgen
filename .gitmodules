@@ -1,0 +1,3 @@
+[submodule "cpp/lib/croaring"]
+	path = cpp/lib/croaring
+	url = https://github.com/lemire/CRoaringUnityBuild.git
